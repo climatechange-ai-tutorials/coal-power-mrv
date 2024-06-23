@@ -1,8 +1,11 @@
 # Estimating Coal Power Plant Operation From Satellite Images with Computer Vision
 Explore how to monitor coal power plant activity by leveraging satellite imagery and computer vision models.
 
-Author:
+Original Author:
 * André Ferreira, TransitionZero, andre@transitionzero.org
+
+Updated by:
+* Isabelle Tingzon, Climate Change AI, issa@climatechange.ai
 
 Originally presented at Climate Change AI Summer School 2023
 
