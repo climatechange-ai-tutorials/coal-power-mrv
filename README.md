@@ -32,18 +32,18 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Ferreira, A. (2023). Estimating Coal Power Plant Operation From Satellite Images with Computer Vision [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.11625034
+Ferreira, A & Tingzon, T. (2024). Estimating Coal Power Plant Operation From Satellite Images with Computer Vision [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.12533588
 
 ### BibTeX
 
 ```
-@misc{ferreira2023estimating,
+@misc{ferreira2024estimating,
   title={Estimating Coal Power Plant Operation From Satellite Images with Computer Vision},
-  author={Ferreira, Andre},
-  year={2023},
+  author={Ferreira, Andre and Tingzon, Isabelle},
+  year={2024},
   organization={Climate Change AI},
   type={Tutorial},
-  doi={https://doi.org/10.5281/zenodo.11625034},
+  doi={https://doi.org/10.5281/zenodo.12533588},
   booktitle={Climate Change AI Summer School},
   howpublished={\url{https://github.com/climatechange-ai-tutorials/coal-power-mrv}}
 }
