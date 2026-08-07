@@ -1,0 +1,20 @@
+git+https://github.com/AndreCNF/ccai-ss23-ai-monitoring-tutorial.git
+gdown
+aim
+codecarbon
+
+# Data processing & visualization
+plotly
+ipywidgets
+pandas
+geopandas
+
+# Machine Learning & Deep Learning
+torch
+timm
+lightning
+torchgeo
+satlaspretrain-models
+
+# Utilities
+loguru
