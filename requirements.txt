@@ -3,6 +3,7 @@ coal-emissions-monitoring @ git+https://github.com/AndreCNF/ccai-ss23-ai-monitor
 
 # Core Utilities
 gdown==5.2.2
+aim==3.29.1
 codecarbon==3.3.0
 loguru==0.7.3
 
