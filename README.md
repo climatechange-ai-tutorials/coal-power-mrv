@@ -5,17 +5,16 @@ Original Author:
 * André Ferreira, TransitionZero, andre@transitionzero.org
 
 Updated by:
-* Isabelle Tingzon, Climate Change AI, issa@climatechange.ai
+*   [2024] Isabelle Tingzon, issa@climatechange.ai
+*   [2026] El Khalil Cherif, el.k.cherif@tecnico.ulisboa.pt
 
-Originally presented at Climate Change AI Summer School 2023
+Originally presented at Climate Change AI Summer School 2023, revised for 2024 and 2026
 
 ## Access this tutorial
 
 We recommend executing this notebook in a Colab environment to gain access to GPUs and to manage all necessary dependencies. <a target="_blank" href="https://colab.research.google.com/github/climatechange-ai-tutorials/coal-power-mrv/blob/main/CCAI_Summer_School_Tutorial___MRV.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
-Estimated time to execute end-to-end: 10 minutes 
 
 ## Contribute to this tutorial
 
@@ -32,18 +31,18 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Ferreira, A & Tingzon, T. (2024). Estimating Coal Power Plant Operation From Satellite Images with Computer Vision [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.12533588
+Ferreira, A, Tingzon, T., Cherif, E.K. (2026). Estimating Coal Power Plant Operation From Satellite Images with Computer Vision [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.21831109
 
 ### BibTeX
 
 ```
-@misc{ferreira2024estimating,
+@misc{ferreira2026estimating,
   title={Estimating Coal Power Plant Operation From Satellite Images with Computer Vision},
-  author={Ferreira, Andre and Tingzon, Isabelle},
-  year={2024},
+  author={Ferreira, Andre and Tingzon, Isabelle and Cherif, El Khalil},
+  year={2026},
   organization={Climate Change AI},
   type={Tutorial},
-  doi={https://doi.org/10.5281/zenodo.12533588},
+  doi={https://doi.org/10.5281/zenodo.21831109},
   booktitle={Climate Change AI Summer School},
   howpublished={\url{https://github.com/climatechange-ai-tutorials/coal-power-mrv}}
 }
