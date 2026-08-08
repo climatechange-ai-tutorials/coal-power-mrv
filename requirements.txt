@@ -1,20 +1,23 @@
-git+https://github.com/AndreCNF/ccai-ss23-ai-monitoring-tutorial.git
-gdown
-aim
-codecarbon
+# Custom Tutorial Package
+coal-emissions-monitoring @ git+https://github.com/AndreCNF/ccai-ss23-ai-monitoring-tutorial.git@8b7ba2d2b11175c8f12f87b22a7d18acb6c8628e
+
+# Core Utilities
+gdown==5.2.2
+aim==3.29.1
+codecarbon==3.3.0
+loguru==0.7.3
 
 # Data processing & visualization
-plotly
-ipywidgets
-pandas
-geopandas
+plotly==5.24.1
+ipywidgets==7.7.1
+pandas==2.2.2
+geopandas==1.1.4
+numpy==2.0.2
 
 # Machine Learning & Deep Learning
-torch
-timm
-lightning
-torchgeo
-satlaspretrain-models
-
-# Utilities
-loguru
+torch==2.11.0
+torchvision==0.26.0
+timm==1.0.28
+lightning==2.6.5
+torchgeo==0.9.0
+satlaspretrain-models==0.3.1

@@ -16,6 +16,13 @@ We recommend executing this notebook in a Colab environment to gain access to GP
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+If running locally using a fork of this repository, you can install the required Python packages using the terminal command below. It is recommended to create this in a separate Python environment.
+```
+pip install -r requirements.txt
+```
+
+Note: The code also uses `aim` to track training progress, which is a [Python package available for Linux and MacOs](https://aimstack.readthedocs.io/en/latest/quick_start/setup.html). If you are using Windows, you may have trouble installing `aim`. If so, it is recommended to use Google Colab to execute the code instead, or remove uses of `AimLogger` in the code.
+
 ## Contribute to this tutorial
 
 Please refer to these [GitHub instructions](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project#about-forking) to open a pull request via the "fork and pull request" workflow. 
